@@ -1,4 +1,4 @@
-# 🧠 RyuZeNK-Ai-DevCodex
+<h1 align="center"> 🧠 RyuZeNK-Ai-DevCodex 🧠 </h1>
 
 **RyuZeNK-Ai-DevCodex** es mi biblioteca personal de conocimiento. Aquí documento, organizo y refuerzo todo lo que aprendo en programación, desarrollo web, lógica, terminal, Git y buenas prácticas.
 
